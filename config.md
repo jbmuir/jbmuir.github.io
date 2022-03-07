@@ -5,8 +5,8 @@ The website_* must be defined for the RSS to work
 -->
 @def website_title = "Jack B. Muir"
 @def website_descr = "Jack B. Muir's personal website"
-<!-- @def website_url   = "http://web.gps.caltech.edu/~jmuir/"
-@def prepath = "~jmuir" -->
+@def website_url   = "https://jbmuir.github.io/"
+@def prepath = ""
 
 @def author = "Jack B. Muir"
 
