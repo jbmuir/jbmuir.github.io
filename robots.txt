@@ -1,0 +1,4 @@
+Sitemap: https://jbmuir.github.io/sitemap.xml
+
+User-agent: *
+Disallow:
