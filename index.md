@@ -3,7 +3,7 @@
 
 ![Jack in front of York Minster](/assets/jbmuir_long_compressed.jpeg)
 
-I'm a Marie Skłodowska-Curie Fellow at the Department of Earth Sciences at the University of Oxford, and a Junior Research Fellow at Wolfson College, Oxford. I defended my PhD at the Caltech Seismolab in October 2021. I'm passionate about inverse problems — some of the projects I'm working on now are: imaging the Earth from near surface to the core; improving data captured at seismic arrays; and answering difficult questions about historical data sets. 
+I'm a Marie Skłodowska-Curie Fellow at the Department of Earth Sciences at the University of Oxford, and a Junior Research Fellow at Wolfson College, Oxford. I defended my PhD at the Caltech Seismolab in October 2021. I'm passionate about inverse problems and cutting edge applied mathematics — some of the projects I'm working on now are: accelerating seismic wavefield simulations with machine learning, imaging the Earth from near surface to the core; improving data captured at seismic arrays; and studying the time-varying behaviour of seismic swarms. 
 
 *You can contact me at [jack.muir@earth.ox.ac.uk](mailto:jack.muir@earth.ox.ac.uk)*
 
