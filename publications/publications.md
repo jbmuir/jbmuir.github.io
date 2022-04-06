@@ -3,7 +3,7 @@
 I am working to create non-technical summaries for each of the papers for which I am a co-author; those which are completed have a summary link after the paper reference below.
 
 \reversed{
-1) **Jack B. Muir** and Zhongwen Zhan, *Wavefield-based evaluation of DAS instrument response and array designs*, **Geophysical Journal International**, Volume 229, Issue 1, April 2022, Pages 21-34, [DOI:10.1093/gji/ggab439](https://doi.org/10.1093/gji/ggab439), [Summary](/publications/summaries#wavefield-based_evaluation_of_DAS_instrument_response_and_array_designs)
+1) **Jack B. Muir** and Zhongwen Zhan, *Wavefield-based evaluation of DAS instrument response and array designs*, **Geophysical Journal International**, Volume 229, Issue 1, April 2022, Pages 21-34, [DOI:10.1093/gji/ggab439](https://doi.org/10.1093/gji/ggab439), [Summary](/publications/summaries#wavefield-based_evaluation_of_das_instrument_response_and_array_designs)
 
 2) **Jack B. Muir**, Robert W. Clayton, Victor C. Tsai and Quentin Brissaud, *Parsimonious velocity inversion applied to the Los Angeles Basin, CA*, **Journal of Geophysical Research: Solid Earth**, Volume 127, Issue 2, February 2022, e2021JB023103, [DOI:10.1029/2021JB023103](https://doi.org/10.1029/2021JB023103), [Summary](/publications/summaries#parsimonious_velocity_inversion_applied_to_the_los_angeles_basin_ca)
 
