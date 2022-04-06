@@ -1,9 +1,23 @@
 @def title = "Publication Summaries"
 
+### Wavefield-based evaluation of DAS instrument response and array designs
+
+Distributed acoustic sensing (DAS) networks turn fibre optic cable into highly dense arrays of seimometers. However, rather than measuring the ground motion directly, like a normal seismometer, DAS measures ground strain. Because of this, it is quite difficult to build up a full picture of ground motion in an area using only DAS. We use our [new signal processing framework](/publications/summaries#seismic_wavefield_reconstruction_using_a_preconditioned_wavelet-curvelet_compressive_sensing_approach) to convert DAS records from measuring strain into measuring displacement motion, and show how this allows us to combine them with normal seismometers. This has useful applications for calibrating DAS, designing DAS arrays for optimal sensitivity, and compressing the data. 
+
+### Parsimonious velocity inversion applied to the Los Angeles Basin, CA
+
+Los Angeles is one of the US cities with the highest risk of damage due to earthquakes, due to the large number of nearby active faults and its location on a deep bowl of weak rock, which tends to amplify earthquake damage. We use a large number of instruments located in Los Angeles district schools to make measurements of earthquakes that occurred near Ridgecrest, California in July 2019. These earthquakes generated strong Love waves - a type of energy that is particularly useful for studying the basin structures responsible for amplification of earthquakes. Using this data, we applied a [new imaging technique](/publications/summaries#geometric_and_level_set_tomography_using_ensemble_kalman_inversion) based on perturbations of identified geological surfaces to create a local model of the northeast Los Angeles basin at higher resolution than had been previously available. Our imaging technique appropriately balances information from previous, lower resolution inversions with the new data obtained in this study, and identifies which parts of the model are most robust. 
+### Sub-kilometer correlation between near-surface structure and ground motion measured with distributed acoustic sensing
+
+When earthquakes shake the ground, one of the most important factors for the amount of damage is the earth structure immediately underneath a building or piece of infrastructure. Weak, seismically slow soils amplify shaking and cause greater damage. Mapping out this structure at high resolution is challenging however, as seismic instruments are expensive and hence normally only sparsely distrubuted. Using distributed acoustic sensing (DAS), we can get much finer scale resolution. In this study, I contributed tomography using our [level-set approach](/publications/summaries#geometric_and_level_set_tomography_using_ensemble_kalman_inversion) which helped to show a that DAS is strongly sensitive to near-site structure, and can create earth models which successfully predict observed ground motion amplifications. This has the potential to revolutionize geophysical surveying for seismic hazard. 
+
+### HypoSVI - Hypocentral Earthquake Location Analysis using Machine Learning based Stein Variational Gradient Descent
+
+One of the most important things to know about earthquakes is where they happened, how deep, underneath where exactly, and what time. However, given that seismic data is noisy, the structure of the Earth is generally unknown, and we don't have very many stations, figuring out where earthquakes occured is surprisingly difficult. Indeed, the best answer is a probability distribution over the earthquake's location. Probability calculations can be quite expensive, but in this paper we use the interesting ensemble algorithm of Stein Variational Gradient Descent, which fits a ensemble variational approximation our uncertainty. This provides an efficient way of mapping earthquake locations. 
+
 ### Seismic wavefield reconstruction using a preconditioned wavelet-curvelet compressive sensing approach
 
 Seismic data is normally recorded on a per-channel basis - each instrument writes out a file with the motion of the earth recorded at constantly sampled times. However, we know that the motion satisfies the seismic wave equation, so there should be a way to optimally interpolate all of these recordings in space. We use compressive-sensing, a technique developed for machine vision, to create an optimal interpolation scheme for seismic data that respects wave physics and so allows us to perform innovative new analyses of the seismic wavefield. 
-
 
 ### Probabalistic lowermost mantle P-Wave tomography from hierarchical Hamiltonian Monte Carlo and model parametrization cross-validation
 
@@ -12,7 +26,6 @@ The structure of the Earth is dominated by three primary interfaces --- the surf
 ### Geometric and Level Set Tomography using Ensemble Kalman Inversion
 
 Tomography refers to the process by which we infer the hidden internal structure of an object by sending energy through it, rather than by destructive testing. Most people would be familiar with the medical CT scan (computed tomography) which uses the attenuation of x-rays through the body to create detailed, non-invasive images. We can use a similar idea to create images of the interior of the earth using seismic waves; however because the imaging geometry and propagation physics are much less favorable than in the medical setting, seismic images are much harder to interpret. We propose a method of simplifying the way that seismic images are described during tomography, to make them more robust and interpretable. We use a mixture of explicit geological features such as faults, and boundaries between geological units described implicitly by a mathematical object known as a level set. This allows us to image sharp features much more cleanly than using traditional seismic techniques. 
-
 
 ### Did Oldham Discover the Core After All? Handling Imprecise Historical Data with Hierarchical Bayesian Model Selection Methods
 
