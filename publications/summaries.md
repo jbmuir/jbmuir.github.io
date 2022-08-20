@@ -1,5 +1,9 @@
 @def title = "Publication Summaries"
 
+### Long-wavelength topography and multiscale velocity heterogeneity at the core-mantle boundary
+
+The most important internal boundary of the Earth is the core-mantle boundary (CMB), between the liquid iron outer core and the rocky mantle above it. The shape of this boundary has important implications for how the Earth has evolved through time, in particular due to being an indication about how heat flows out of the core and into the mantle. However, determining this shape has remained stubbornly difficult for the past 40 years. In this paper, we use a dataset that is particularly targeted towards this region to image the CMB shape and the lowermost mantle using a robust statistical method developed in [our previous work](/publications/summaries#probabalistic_lowermost_mantle_p-wave_tomography_from_hierarchical_hamiltonian_monte_carlo_and_model_parametrization_cross-validation). We find that the CMB boundary has large hills and valleys, but is relatively smooth compared to the complex structure of the lowermost mantle above it.
+
 ### Wavefield-based evaluation of DAS instrument response and array designs
 
 Distributed acoustic sensing (DAS) networks turn fibre optic cable into highly dense arrays of seimometers. However, rather than measuring the ground motion directly, like a normal seismometer, DAS measures ground strain. Because of this, it is quite difficult to build up a full picture of ground motion in an area using only DAS. We use our [new signal processing framework](/publications/summaries#seismic_wavefield_reconstruction_using_a_preconditioned_wavelet-curvelet_compressive_sensing_approach) to convert DAS records from measuring strain into measuring displacement motion, and show how this allows us to combine them with normal seismometers. This has useful applications for calibrating DAS, designing DAS arrays for optimal sensitivity, and compressing the data. 
