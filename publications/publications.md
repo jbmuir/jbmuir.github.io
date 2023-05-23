@@ -4,7 +4,7 @@ I am working to create non-technical summaries for each of the papers for which 
 
 \reversed{
 
-1) **Jack B. Muir** and Zachary E. Ross, *A Deep Gaussian Process Model for Seismicity Background Rates*, **Geophysical Journal International**, *in press*, [Summary](/publications/summaries#a_deep_gaussian_process_model_for_seismicity_background_rates)
+1) **Jack B. Muir** and Zachary E. Ross, *A Deep Gaussian Process Model for Seismicity Background Rates*, **Geophysical Journal International**, Volume 234, Issue 1, July 2023, Pages 427–438, [Summary](/publications/summaries#a_deep_gaussian_process_model_for_seismicity_background_rates)
 
 2) **Jack B. Muir**, Satoru Tanaka and Hrvoje Tkalčić, *Long-wavelength topography and multiscale velocity heterogeneity at the core-mantle boundary*, **Geophysical Research Letters**, Volume 49, Issue 17, September 2022, e2022GL099943, [DOI:10.1029/2022GL099943](https://doi.org/10.1029/2022GL099943), [Summary](/publications/summaries#long-wavelength_topography_and_multiscale_velocity_heterogeneity_at_the_core-mantle_boundary)
    
